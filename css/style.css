@@ -1,0 +1,186 @@
+
+h1{
+	font-family: cinzel-decorative;
+	font-style: bold;
+	font-size: 100pt;
+	color: #5C2018;
+}
+#title{
+	display: flex;
+	text-align: center;
+	cursor: pointer;
+}
+.logo{
+	float: left;
+	object-fit: cover;
+    width: 200px;
+    padding: 0px;
+	cursor: pointer;
+}
+.float_form{
+	float: center;
+	display: center-right;
+	position: absolute;
+	top: 0%;
+	left: 50%;
+	widows: 100%;
+	text-align: center;
+	font-style: bold;
+}
+.center_form{
+	float: center;
+	display: center-right;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+	widows: 100%;
+	text-align: center;
+	font-style: bold;
+}
+body{
+	/*background: url(C:/xampp/htdocs/shutterstock_1.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-size: 80px 60px;*/
+	background: white;
+	color: #5C2018;
+	font-family: cinzel;
+	margin: auto;
+	justify-content: space-between;
+}
+ul {
+	list-style-type: square;
+	margin: auto;
+	padding: 30px 0;
+	overflow: hidden;
+    background-color: #5C2018;
+	text-transform: uppercase;
+}
+li{ 
+	display: inline-block;
+	float: left;
+	margin
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f3e0dc;
+    color: #5C2018;
+}
+
+a {
+	color: #5C2018;
+	text-decoration: none;
+	padding-left: 20px;
+}
+a:hover{
+	background-color: white;
+	color: #5C2018;
+}
+h2{
+	padding-left: 10px;
+	font-size: 25pt;
+	font-style: bold;
+}
+.heading{
+	font-size:30pt;
+	text-align: center;
+}
+.fix_table{
+	width: 300px;
+}
+.fix_table_short{
+	width: 225px;
+}
+
+.banner{
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: cover;
+}
+.banner1{
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: resolute;
+}
+.welcome_text{
+	font-family: cinzel-decorative;
+	font-size: 50pt;
+	color: white;
+	display: deflex;
+	text-align: center;
+	position: absolute;
+	left: 25%;
+	right: 25%;
+	top: 80%;
+	text-shadow: 2px 2px black;
+	justify-content: center;
+}
+.admin_func:hover{
+	color: #5C2018;
+	font-style: italic;
+	text-decoration: 0;
+}
+.center_submit{
+	text-align: center;
+}
+h3{
+	padding-left: 30px;
+	font-size: 15pt;
+}
+.login_form{
+	float: left;
+	position: absolute;
+}
+
+.login{
+	text-align: center;
+}
+
+.bg{
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+	background-position: cover;
+	position: resolute;
+}
+
+.pos{
+	position: relative;
+}
+
+.image-thumbnail{
+	width: 100%;
+	height: 75vh;
+	background-size: cover;
+	background-position: center;
+	position: resolute;
+}
+
+.container-fluid{
+	justify-content: space-between;
+}
+
+.table.table-bordered{
+	justify-content: space-between;
+}
+
+.varun{
+	float: center;
+	display: center-right;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	widows: 100%;
+	text-align: center;
+	font-style: bold;
+}
+	
